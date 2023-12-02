@@ -1,14 +1,4 @@
-﻿**Universidade Federal do Agreste de Pernambuco!
-
-**Av. Bom Pastor s/n - Boa Vista 55292-270 Garanhuns/PE**
-
-**T +55 (87) 3764-5500**
-
-**m http://www.ufape.edu.br**
-
-**Bacharelado em Ciência da Computação        CCMP3079 Segurança de Redes de Computadores!
-
-**Prof. Sérgio Mendonça      Atividade Cap. 01 - Introdução 10 de outubro de 2023.**
+﻿
 
 **Nome Completo:**
 

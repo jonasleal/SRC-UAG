@@ -1,14 +1,4 @@
-﻿**Universidade Federal do Agreste de Pernambuco![](Aspose.Words.40da8d9b-cdde-47b0-9a08-61dfead0495b.001.png)**
-
-**Av. Bom Pastor s/n - Boa Vista 55292-270 Garanhuns/PE**
-
-**T +55 (87) 3764-5500**
-
-**m http://www.ufape.edu.br**
-
-**Bacharelado em Ciência da Computação        CCMP3079 Segurança de Redes de Computadores Prof. Sérgio Mendonça![](Aspose.Words.40da8d9b-cdde-47b0-9a08-61dfead0495b.002.png)**
-
-**Atividade Cap. 04 - Conceitos básicos de Teoria dos Números e Corpos Finitos Para apresentação e discussão em sala de aula, em 31/10/2023.**
+﻿
 
 **Nome Completo:**
 
