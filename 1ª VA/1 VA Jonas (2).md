@@ -1,16 +1,4 @@
-﻿**Universidade Federal do Agreste de Pernambuco![](Aspose.Words.c1c9a184-6c2a-496a-8990-3c239302077b.001.png)**
-
-**Av. Bom Pastor s/n - Boa Vista 55292-270 Garanhuns/PE**
-
-**T +55 (87) 3764-5500**
-
-**m http://www.ufape.edu.br**
-
-**Bacharelado em Ciência da Computação CCMP3079 Segurança de Redes de Computadores![](Aspose.Words.c1c9a184-6c2a-496a-8990-3c239302077b.002.png)**
-
-**Prof. Sérgio Mendonça**
-
-**1ª Verificação de Aprendizagem Para 28/11/2023.**
+﻿
 
 **Nome Completo:** Jonas Ferreira Leal Junior
 
